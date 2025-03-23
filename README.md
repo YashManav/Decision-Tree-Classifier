@@ -96,3 +96,7 @@ plt.show()
 The final accuracy score indicated how well the model performed on the test set. Given that the Iris dataset is relatively simple and well-structured, the Decision Tree classifier performed quite well.
 
 By visualizing the decision tree, I was able to interpret how the model made decisions based on feature values. Each split in the tree represents a decision rule that helps classify a data point into one of the three species categories.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/f62f5775-6b16-4fda-a6a6-f6aafde8e9c8)
