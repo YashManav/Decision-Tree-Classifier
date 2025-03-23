@@ -59,6 +59,6 @@ The final accuracy score indicated how well the model performed on the test set.
 
 By visualizing the decision tree, I was able to interpret how the model made decisions based on feature values. Each split in the tree represents a decision rule that helps classify a data point into one of the three species categories.
 
-###OUTPUT
+### OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/f48e87e5-c607-4f6b-bba9-fabb8a6619e0)
