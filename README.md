@@ -99,4 +99,4 @@ By visualizing the decision tree, I was able to interpret how the model made dec
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/f62f5775-6b16-4fda-a6a6-f6aafde8e9c8)
+https://github.com/YashManav/Decision-Tree-Classifier/issues/1#issue-2941355586
